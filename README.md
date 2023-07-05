@@ -1,7 +1,7 @@
 # mini_project
-For UCCC2513 Mini Project
-Name : Kau Kai Jing
-ID : 2106560
-Course : Computer Science
-Tutor : Dr.Lim Jia Qi
-Group: T10
+For UCCC2513 Mini Project /n
+Name : Kau Kai Jing /n
+ID : 2106560 /n
+Course : Computer Science /n
+Tutor : Dr.Lim Jia Qi /n 
+Group: T10 /n
